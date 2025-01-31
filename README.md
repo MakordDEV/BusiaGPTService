@@ -5,26 +5,26 @@ busia_gpt_service is a Python package designed to interact with the Busia GPT mo
 This package is developed exclusively for use by the developer and their friends. Only authorized users who possess a valid API key will be able to access the service. If you're not familiar with the developer or do not have a key, you will not be able to use the API.
 
 ## Features
-Simple interface to interact with Busia GPT models.
-Supports both busiai and chatgpt models.
+Simple interface to interact with GPT models.
+Supports both BusiAI and ChatGPT models.
 Requires a valid API key for authentication.
 Handles common errors such as invalid API keys and insufficient tokens.
 Provides clear error messages to guide you through any issues.
 ## Installation
-To install the busia_gpt_service package, you can use pip:
+To install the busiagptservice package, you can use pip:
 
 ```
-pip install busia_gpt_service
+pip install busiagptservice
 ```
 Alternatively, if you want to install it directly from the repository:
 
 ```
-git clone https://github.com/yourusername/busia_gpt_service.git
-cd busia_gpt_service
+git clone https://github.com/MakordDEV/BusiaGPTService.git
+cd BusiaGPTService
 pip install .
 ```
 ## Usage
-To use the busia_gpt_service package, you must have a valid API key. Once you have your API key, you can start interacting with the Busia GPT models.
+To use the busiagptservice package, you must have a valid API key. Once you have your API key, you can start interacting with the Busia GPT models.
 
 #Example:
 ```
