@@ -74,4 +74,4 @@ Contributing
 Since this package is designed only for the developer and their trusted users, contributions from others are not expected at this time. If you believe you need access to the API or want to contribute, please contact the developer directly.
 
 ## License
-This project is not licensed for public use and is only intended for use by the developer and their friends. Do not redistribute or share the package without permission.
+This project is not licensed for public use and is only intended for use by the developer and their friends. Please refrain from distributing or sharing the package for malicious purposes.
