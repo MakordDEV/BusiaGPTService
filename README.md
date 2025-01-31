@@ -1,4 +1,4 @@
-#Busia GPT Service
+# Busia GPT Service
 busia_gpt_service is a Python package designed to interact with the Busia GPT models (such as busiai and chatgpt) through an easy-to-use API interface. This package allows you to send prompts to the Busia GPT models and receive responses, enabling you to integrate advanced AI functionalities into your own applications or scripts.
 
 #Note:
